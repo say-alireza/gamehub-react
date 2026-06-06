@@ -41,6 +41,7 @@ A modern game shop website built with React, powered by RAWG.io's API.
 
 
 ## 🔧 Project Structure
+```
 game-shop/
 ├── public/          # Static files
 ├── src/
@@ -54,6 +55,7 @@ game-shop/
 │   └── index.js     # Entry point
 ├── .env.example     # Environment variables template
 └── package.json     # Project dependencies
+```
 ## 🌱 Future Improvements
 Add user authentication
 
